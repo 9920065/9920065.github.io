@@ -7,7 +7,7 @@
 #### Contact information
 * Phone: +375(33) 335-66-59
 * E-mail: svetlov9920065@gmail.com
-* Telegram: __@shift_1994__
+* Telegram:  __@shift_1994__
 * GitHub: [9920065](https://github.com/9920065)
 
 ---
