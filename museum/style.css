@@ -1,0 +1,51 @@
+header {
+    margin: 0 ;
+    height: 150px;
+    width: 1920px;
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items:center;
+}
+.logo
+{   width: 439px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    
+}
+.logo-img{
+    height: 26px;
+    width: 49px;
+  
+}
+   
+.logo-txt {
+    font-size: 31px;
+     width: 125px;
+     align-items: flex-end ;
+     margin-left: 25px;
+     color: white;
+}
+.container {
+    margin-right: 39px;
+    font-size: 26px;
+    height: 150px;
+    width: 1481px;
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.visiting {
+     
+    margin-left: 466px;
+
+}
+.explore {
+    margin-left: 55px;
+   
+    
+}
